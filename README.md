@@ -1,18 +1,12 @@
-## Getting Started
+# Info de la app
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+este es una aplicacion que recorre un vector de manera recursiva
 
-## Folder Structure
+## QUE utilice?
 
-The workspace contains two folders by default, where:
+solo se uso la clase main en dond se emplearon 3 metodos para encapsular la logica
+1 use un vector tipo int
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Disponible en:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+[link en mi repositorio github](https://github.com/alfonsoocampo999/java-recorrido-recursivo.git)
